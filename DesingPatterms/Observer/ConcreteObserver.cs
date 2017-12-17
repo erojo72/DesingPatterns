@@ -9,11 +9,11 @@ namespace Observer
     public class ConcreteObserver : IObserver
     {
 
-
         public ConcreteObserver(IObservable observable)
         {
             observable.registerObserver(this);
         }
+
         public void update(IObservable observable, object state)
         {
             //PUSH
