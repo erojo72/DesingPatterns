@@ -24,5 +24,11 @@ namespace Strategy
 
             Console.ReadLine();
         }
+
+        public class A
+        {
+            public void aa() { }
+        }
     }
+
 }

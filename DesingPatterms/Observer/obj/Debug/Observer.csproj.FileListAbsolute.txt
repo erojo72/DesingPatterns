@@ -1,0 +1,7 @@
+C:\Proyectos\DesingPatterns\DesingPatterms\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Proyectos\DesingPatterns\DesingPatterms\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Proyectos\DesingPatterns\DesingPatterms\Observer\bin\Debug\Observer.exe.config
+C:\Proyectos\DesingPatterns\DesingPatterms\Observer\bin\Debug\Observer.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\Observer\bin\Debug\Observer.pdb
+C:\Proyectos\DesingPatterns\DesingPatterms\Observer\obj\Debug\Observer.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\Observer\obj\Debug\Observer.pdb
