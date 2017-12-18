@@ -1,4 +1,3 @@
-C:\Proyectos\DesingPatterns\DesingPatterms\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
 C:\Proyectos\DesingPatterns\DesingPatterms\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
 C:\Proyectos\DesingPatterns\DesingPatterms\Observer\bin\Debug\Observer.exe.config
 C:\Proyectos\DesingPatterns\DesingPatterms\Observer\bin\Debug\Observer.exe
