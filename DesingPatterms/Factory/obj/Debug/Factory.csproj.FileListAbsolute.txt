@@ -1,0 +1,6 @@
+C:\Proyectos\DesingPatterns\DesingPatterms\Factory\bin\Debug\Factory.exe.config
+C:\Proyectos\DesingPatterns\DesingPatterms\Factory\bin\Debug\Factory.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\Factory\bin\Debug\Factory.pdb
+C:\Proyectos\DesingPatterns\DesingPatterms\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Proyectos\DesingPatterns\DesingPatterms\Factory\obj\Debug\Factory.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\Factory\obj\Debug\Factory.pdb

@@ -1,0 +1,7 @@
+C:\Proyectos\DesingPatterns\DesingPatterms\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Proyectos\DesingPatterns\DesingPatterms\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Proyectos\DesingPatterns\DesingPatterms\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Proyectos\DesingPatterns\DesingPatterms\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Proyectos\DesingPatterns\DesingPatterms\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\AbstractFactory\obj\Debug\AbstractFactory.pdb

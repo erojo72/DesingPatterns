@@ -4,3 +4,4 @@ C:\Proyectos\DesingPatterns\DesingPatterms\Decorator\bin\Debug\Decorator.pdb
 C:\Proyectos\DesingPatterns\DesingPatterms\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
 C:\Proyectos\DesingPatterns\DesingPatterms\Decorator\obj\Debug\Decorator.exe
 C:\Proyectos\DesingPatterns\DesingPatterms\Decorator\obj\Debug\Decorator.pdb
+C:\Proyectos\DesingPatterns\DesingPatterms\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
