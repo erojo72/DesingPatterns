@@ -1,0 +1,7 @@
+C:\Proyectos\DesingPatterns\DesingPatterms\Command\bin\Debug\Command.exe.config
+C:\Proyectos\DesingPatterns\DesingPatterms\Command\bin\Debug\Command.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\Command\bin\Debug\Command.pdb
+C:\Proyectos\DesingPatterns\DesingPatterms\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Proyectos\DesingPatterns\DesingPatterms\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Proyectos\DesingPatterns\DesingPatterms\Command\obj\Debug\Command.exe
+C:\Proyectos\DesingPatterns\DesingPatterms\Command\obj\Debug\Command.pdb
